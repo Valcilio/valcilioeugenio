@@ -3,7 +3,7 @@
 ## Data Scientist Student
 
 
-### About Me
+### About Me:
 
 <p align='center'>
     <img src='first.png'<
@@ -16,7 +16,7 @@ In this way I'm studying data science with courses of SQL, Machine Learning, Pyt
 
 With all of that, I developed this skills at this moment:
 
-**Analytical Tools:**
+**Data Science Tools:**
 
 * **Data Collect and Storage Modeling:** MySQL.
 * **Data Manipulation and Data Integration:** Python, Pandas and ETL.
@@ -25,7 +25,7 @@ With all of that, I developed this skills at this moment:
 * **Machine Learning Modeling:** Classification, Regression and Time Series.
 * **Data Visualization and Deploy:** Streamlit, Power BI, Flask and Telegram Bot.
 
-**Where to Find Me:**
+**Contact Me:**
 
 * [![Linkedin Badge](https://img.shields.io/badge/-ValcilioEugenio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)](https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)
 
