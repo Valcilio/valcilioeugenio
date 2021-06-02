@@ -1,4 +1,4 @@
-## Hi, I'm Valcílio Eugênio
+## Hi, I'm Valcilio Eugenio
 
 ## Data Scientist Student
 
