@@ -27,9 +27,9 @@ With all of that, I developed this skills at this moment:
 
 **Where to Find Me:**
 
-* ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://img.shields.io/badge/-Valcilio Eugenio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)](https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)
+* [![Linkedin Badge](https://img.shields.io/badge/-ValcilioEugenio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)](https://www.linkedin.com/in/valc%C3%ADlio-eug%C3%AAnio-b21ab2188/)
 
-* ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://img.shields.io/badge/-eugeniovalcilio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugeniovalcilio@gmail.com)](mailto:eugeniovalcilio@gmail.com)
+* [![Gmail Badge](https://img.shields.io/badge/-eugeniovalcilio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugeniovalcilio@gmail.com)](mailto:eugeniovalcilio@gmail.com)
 
 
 ## Data Science Projects:
