@@ -18,12 +18,12 @@ With all of that, I developed this skills at this moment:
 
 **Data Science Tools:**
 
-* **Data Collect and Storage Modeling:** MySQL and Web Scrapping.
-* **Data Manipulation and Data Integration:** Python, Pandas and ETL.
-* **Static and Exploratory Data Analytics:** Numpy, Seaborn, Plotly and Matplotlib.
-* **Data Preparation and Feature Selection:** Scikit-learn and Boruta.
-* **Machine Learning Modeling:** Classification, Regression and Time Series.
-* **Data Visualization and Deploy:** Streamlit, Power BI, Flask and Telegram Bot.
+* **Data Collect and Storage Modeling:** SQL and WebScraping.
+* **Data Manipulation and Data Integration:** Python, Pandas, Koalas and PySpark.
+* **Static and Exploratory Data Analytics:** Numpy, Plotly.Express, Seaborn and Pyplot.
+* **Data Preparation and Feature Selection:** Scalers, Boruta, RFE, Random Forest and Manual.
+* **Machine Learning Modeling:** Regressão, Classificação, Multiclass and Timeseries.
+* **Data Visualization and Deploy:** Streamlit. Power BI and Heroku.
 
 **Contact Me:**
 
@@ -34,12 +34,17 @@ With all of that, I developed this skills at this moment:
 
 ## Data Science Projects:
 
-### [Rossmann Sales Regression - Regression Problem](https://github.com/Valcilio/Rossmann-Regression)
+### [Rossmann Sales Regression - Timeseries Problem](https://github.com/Valcilio/Rossmann-Regression)
   * Business Question: How much will be the revenues of each storage?
   * Resolution: Was decided to apply algorithm of regression to predict how much will be the revenues of each storage of Rossmann. The algorithm selected was the XGBoost that was capable to predict the max value of sales and the minimum helping the CEO to make choices about the stock, marketing and people of each storage and saving some money.
   * Repository: https://github.com/Valcilio/Rossmann-Regression
   
-### [Blocker Fraud Classification - Classification Problem](https://github.com/Valcilio/Block-Fraud-Classification)
+  ### [Netflix Multiclass Rating - Multiclass Classification Problem](https://github.com/Valcilio/Netflix-Multiclass-Rating)
+  * Business Question: Who will be the rating of the shows?
+  * Resolution: In this case was decided to apply a algorithm to make a predict about the rating of the shows from netflix and the algorithm selected had about 40% of f1-score because the dataset is very little to makes a good predict, then the principal results from this project was the six insights derivated and the next steps suggested, but the notebook is very rich in information.
+  * Repository: https://github.com/Valcilio/Rossmann-Regression
+  
+### [Blocker Fraud Classification - Binary Classification Problem](https://github.com/Valcilio/Block-Fraud-Classification)
   * Business Question: How detect the frauds transactions?
   * Resolution: To solve the question was used machine learning modeling with some classification algorithm capable to detect if the transaction is fraud or no, the selected was the Random Forest Algorithm demonstrated accuracy of 99%.
   * Repository: https://github.com/Valcilio/Block-Fraud-Classification
