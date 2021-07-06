@@ -1,6 +1,6 @@
 ## Hi, I'm Valcilio Eugenio
 
-## Data Scientist Student
+## Data Scientist Junior
 
 
 ### About Me:
