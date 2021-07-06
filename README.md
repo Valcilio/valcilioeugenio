@@ -39,7 +39,7 @@ With all of that, I developed this skills at this moment:
   * Resolution: Was decided to apply algorithm of regression to predict how much will be the revenues of each storage of Rossmann. The algorithm selected was the XGBoost that was capable to predict the max value of sales and the minimum helping the CEO to make choices about the stock, marketing and people of each storage and saving some money.
   * Repository: https://github.com/Valcilio/Rossmann-Regression
   
-  ### [Netflix Multiclass Rating - Multiclass Classification Problem (BEST PROJECT UNTIL NOW)](https://github.com/Valcilio/Netflix-Multiclass-Rating)
+  ### [Netflix Multiclass Rating - Multiclass Classification Problem (BEST PROJECT)](https://github.com/Valcilio/Netflix-Multiclass-Rating)
   * Business Question: Who will be the rating of the shows?
   * Resolution: In this case was decided to apply a algorithm to make a predict about the rating of the shows from netflix and the algorithm selected had about 40% of f1-score because the dataset is very little to makes a good predict, then the principal results from this project was the six insights derivated and the next steps suggested, but the notebook is very rich in information.
   * Repository: https://github.com/Valcilio/Rossmann-Regression
