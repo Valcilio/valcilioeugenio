@@ -37,7 +37,7 @@ With all of that, I developed this skills at this moment:
  ### [Netflix Multiclass Rating - Multiclass Classification Problem (BEST PROJECT)](https://github.com/Valcilio/Netflix-Multiclass-Rating)
   * Business Question: Who will be the rating of the shows?
   * Resolution: In this case was decided to apply a algorithm to make a predict about the rating of the shows from netflix and the algorithm selected had about 40% of f1-score because the dataset is very little to makes a good predict, then the principal results from this project was the six insights derivated and the next steps suggested, but the notebook is very rich in information.
-  * Repository: https://github.com/Valcilio/Rossmann-Regression
+  * Repository: https://github.com/Valcilio/Netflix-Multiclass-Rating
 
 ### [Rossmann Sales Regression - Timeseries Problem](https://github.com/Valcilio/Rossmann-Regression)
   * Business Question: How much will be the revenues of each storage?
