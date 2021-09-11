@@ -34,7 +34,7 @@ With all of that, I developed this skills at this moment:
 
 ## Data Science Projects:
 
- ### [Health-Car Cross Sell - Ranking To Learn Problem (BEST PROJECT)](https://github.com/Valcilio/Insurance-Cross-Sell)
+ ### [Health-Car Insurances Cross Sell - Ranking To Learn Problem (BEST PROJECT)](https://github.com/Valcilio/Insurance-Cross-Sell)
   * Business Question: Which are the best customers to be considered and how many of them should actually be included?
   * Resolution: In this project a model was built with a Top K Score of around 80% capable of ranking the customers and then the cumulative gains curve was used to indicate how many of them should be approached according to the selected test data, obtaining some insights which can contribute to the business..
   * Repository: https://github.com/Valcilio/Insurance-Cross-Sell
