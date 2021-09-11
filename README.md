@@ -34,7 +34,12 @@ With all of that, I developed this skills at this moment:
 
 ## Data Science Projects:
 
- ### [Netflix Multiclass Rating - Multiclass Classification Problem (BEST PROJECT)](https://github.com/Valcilio/Netflix-Multiclass-Rating)
+ ### [Health-Car Cross Sell - Ranking To Learn Problem (BEST PROJECT)](https://github.com/Valcilio/Insurance-Cross-Sell)
+  * Business Question: Which are the best customers to be considered and how many of them should actually be included?
+  * Resolution: In this project a model was built with a Top K Score of around 80% capable of ranking the customers and then the cumulative gains curve was used to indicate how many of them should be approached according to the selected test data, obtaining some insights which can contribute to the business..
+  * Repository: https://github.com/Valcilio/Insurance-Cross-Sell
+
+ ### [Netflix Multiclass Rating - Multiclass Classification Problem](https://github.com/Valcilio/Netflix-Multiclass-Rating)
   * Business Question: Who will be the rating of the shows?
   * Resolution: In this case was decided to apply a algorithm to make a predict about the rating of the shows from netflix and the algorithm selected had about 40% of f1-score because the dataset is very little to makes a good predict, then the principal results from this project was the six insights derivated and the next steps suggested, but the notebook is very rich in information.
   * Repository: https://github.com/Valcilio/Netflix-Multiclass-Rating
